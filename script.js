@@ -12,84 +12,84 @@ const songs = [
         artist: "SZA",
         dedication: "I love this song because it perfectly captures how I feel about you.",
         youtubeUrl: "https://youtu.be/muPO1c6pxXg?si=TmKK_TPLwlp6pcqy",
-        coverEmoji: "💕"
+        coverImage: "album_covers/snooze-sza.jpg"
     },
     {
         title: "Life Ethernal",
         artist: "Ghost",
         dedication: "This is our song for dancing in the kitchen at midnight.",
         youtubeUrl: "https://youtu.be/xUSf1bjd4I8?si=RQy0AbmWJj0W-MDP",
-        coverEmoji: "🌙"
+        coverImage: "album_covers/life-eternal-ghost.jpg"
     },
     {
         title: "Emergence",
         artist: "Sleep Token",
         dedication: "Every time I hear this, I think of our adventures together.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "✨"
+        coverImage: "album_covers/emergence-sleeptoken.jpg"
     },
     {
         title: "Missilia Amori",
         artist: "Ghost",
         dedication: "This song means everything to me because it was playing during our first date.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "❤️"
+        coverImage: "album_covers/missilia-amori-ghost.jpg"
     },
     {
         title: "Drag Me Under",
         artist: "Sleep Token",
         dedication: "I want to dedicate this to you because it reminds me how lucky I am to have you.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "🍀"
+        coverImage: "album_covers/drag-me-under-sleeptoken.jpg"
     },
     {
         title: "Yen",
         artist: "Slipknot",
         dedication: "This reminds me of you when you're being your wonderful, silly self.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "😊"
+        coverImage: "album_covers/yen-slipknot.jpg"
     },
     {
         title: "Dance Macabre",
         artist: "Ghost",
         dedication: "Our special moment with this song will always be in my heart.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "💫"
+        coverImage: "album_covers/dance-macabre-ghost.jpg"
     },
     {
         title: "Eternos",
         artist: "Marte",
         dedication: "This song captures how I feel when I'm with you - completely happy.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "☀️"
+        coverImage: "album_covers/eternos-marte.jpg"
     },
     {
         title: "Call Me Little Sunshine",
         artist: "Ghost",
         dedication: "I chose this song because it's been the soundtrack to our love story.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "📖"
+        coverImage: "album_covers/call-me-little-sunshine-Ghost.jpg"
     },
     {
         title: "Figure You Out",
         artist: "Djo",
         dedication: "This will always remind me of us and all our beautiful memories together.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "🌟"
+        coverImage: "album_covers/figure-you-out-djo.jpg"
     },
     {
         title: "Nothing Else Matters",
         artist: "Matallica",
         dedication: "For all the times we've laughed, cried, and grown together.",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "🌈"
+        coverImage: "album_covers/nothing-else-matters.jpg"
     },
     {
         title: "Alkaline",
         artist: "Sleep Token",
         dedication: "Forever our song. I love you more than words can say. ❤️",
         youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverEmoji: "♾️"
+        coverImage: "album_covers/alkaline-sleeptoken.jpg"
     }
 ];
 
