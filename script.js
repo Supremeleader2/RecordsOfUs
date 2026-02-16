@@ -5,7 +5,7 @@ const songs = [
         artist: "Djo",
         dedication: "This song reminds me of when we first met. Every note brings me back to that magical moment.",
         youtubeUrl: "https://youtu.be/VWbgR4LAPUU?si=agBOODqVg-_-QNyT",
-        coverEmoji: "album_covers/goldenline-djo.jpg"
+        coverImage: "album_covers/goldenline-djo.jpg"
     },
     {
         title: "Snooze",
@@ -120,7 +120,8 @@ function updateDisplay() {
     const song = songs[currentIndex];
     
     // Update cover
-    coverImage.href = song.coverEmoji;
+    coverImage.src = song.coverImage;
+    coverImage.alt = song.title;
     coverSong.textContent = song.title;
     coverArtist.textContent = song.artist;
     
