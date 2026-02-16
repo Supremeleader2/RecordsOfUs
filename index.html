@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Songs 💕</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body> 
+    <div class="container">
+        <h1 class="title">Our Soundtrack 💕</h1>
+        <p class="subtitle">13 Songs for Us</p>
+        
+        <div class="record-container">
+            <div class="album-wrapper" id="albumWrapper">
+                <div class="click-hint" id="clickHint">Click to open →</div>
+                <div class="album-cover" id="albumCover">
+                    <div class="cover-image" id="coverImage">
+                        🎵
+                    </div>
+                    <div class="cover-title">
+                        <div class="cover-song" id="coverSong">Song Title </div>
+                        <div class="cover-artist" id="coverArtist">Artist Name </div>
+                    </div>
+                </div>
+                <div class="vinyl-disc" id="vinylDisc">
+                    <div class="vinyl-grooves" style="top: 10%; left: 10%; right: 10%; bottom: 10%;"></div>
+                    <div class="vinyl-grooves" style="top: 15%; left: 15%; right: 15%; bottom: 15%;"></div>
+                    <div class="vinyl-grooves" style="top: 20%; left: 20%; right: 20%; bottom: 20%;"></div>
+                    <div class="vinyl-grooves" style="top: 25%; left: 25%; right: 25%; bottom: 25%;"></div>
+                    <div class="label">
+                        <div class="label-text" id="labelSong">Song Title</div>
+                        <div class="label-artist" id="labelArtist">Artist Name</div>
+                    </div>
+                    <div class="center-hole"></div>
+                </div>
+            </div>
+
+            <div class="song-info" id="songInfo">
+                <div class="info-title" id="infoTitle">Song Title</div>
+                <div class="info-artist" id="infoArtist">Artist Name</div>
+                <div class="dedication-text" id="dedication">Dedication message...</div>
+                <a href="#" target="_blank" class="play-button" id="playButton">
+                    ▶ Play on YouTube
+                </a>
+            </div>
+        </div>
+
+        <div class="controls">
+            <button class="btn" id="prevBtn" disabled>← Previous</button>
+            <button class="btn" id="nextBtn">Next →</button>
+        </div>
+
+        <div class="counter" id="counter">1 / 13</div>
+        <div class="instruction">Click the album cover to slide out the vinyl and see the dedication 🎵</div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
