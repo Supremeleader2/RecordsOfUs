@@ -5,91 +5,91 @@ const songs = [
         artist: "Djo",
         dedication: "This song reminds me of when we first met. Every note brings me back to that magical moment.",
         youtubeUrl: "https://youtu.be/VWbgR4LAPUU?si=agBOODqVg-_-QNyT",
-        coverImage: "album_covers/goldenline-djo.jpg"
+        coverImageJPG: "album_covers/goldenline-djo.jpg"
     },
     {
         title: "Snooze",
         artist: "SZA",
         dedication: "I love this song because it perfectly captures how I feel about you.",
         youtubeUrl: "https://youtu.be/muPO1c6pxXg?si=TmKK_TPLwlp6pcqy",
-        coverImage: "album_covers/snooze-sza.jpg"
+        coverImageJPG: "album_covers/snooze-sza.jpg"
     },
     {
         title: "Life Ethernal",
         artist: "Ghost",
         dedication: "This is our song for dancing in the kitchen at midnight.",
         youtubeUrl: "https://youtu.be/xUSf1bjd4I8?si=RQy0AbmWJj0W-MDP",
-        coverImage: "album_covers/life-eternal-ghost.jpg"
+        coverImageJPG: "album_covers/life-eternal-ghost.jpg"
     },
     {
         title: "Emergence",
         artist: "Sleep Token",
         dedication: "Every time I hear this, I think of our adventures together.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/emergence-sleeptoken.jpg"
+        youtubeUrl: "https://youtu.be/JJpFTUP6fIo?si=ZS72yci19LkbcTds",
+        coverImageJPG: "album_covers/emergence-sleeptoken.jpg"
     },
     {
         title: "Missilia Amori",
         artist: "Ghost",
         dedication: "This song means everything to me because it was playing during our first date.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/missilia-amori-ghost.jpg"
+        youtubeUrl: "https://youtu.be/nx-jo3VLw4Y?si=IbLLm2EdLlmYLU3F",
+        coverImageJPG: "album_covers/missilia-amori-ghost.jpg"
     },
     {
         title: "Drag Me Under",
         artist: "Sleep Token",
         dedication: "I want to dedicate this to you because it reminds me how lucky I am to have you.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/drag-me-under-sleeptoken.jpg"
+        youtubeUrl: "https://youtu.be/c6Cqvgjql_Q?si=slK0tUczn5c8Byya",
+        coverImageJPG: "album_covers/drag-me-under-sleeptoken.jpg"
     },
     {
         title: "Yen",
         artist: "Slipknot",
         dedication: "This reminds me of you when you're being your wonderful, silly self.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/yen-slipknot.jpg"
+        youtubeUrl: "https://youtu.be/XCyF-NPcnBo?si=1gbqmcxFqgmSZdSR",
+        coverImageJPG: "album_covers/yen-slipknot.jpg"
     },
     {
         title: "Dance Macabre",
         artist: "Ghost",
         dedication: "Our special moment with this song will always be in my heart.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/dance-macabre-ghost.jpg"
+        youtubeUrl: "https://youtu.be/7Gr63DiEUxw?si=QoWkOkBVqlQndiNu",
+        coverImageJPG: "album_covers/dance-macabre-ghost.jpg"
     },
     {
         title: "Eternos",
         artist: "Marte",
         dedication: "This song captures how I feel when I'm with you - completely happy.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/eternos-marte.jpg"
+        youtubeUrl: "https://youtu.be/nRB5JKOZTkw?si=ZY-417_2Ii4CnRuU",
+        coverImageJPG: "album_covers/eternos-marte.jpg"
     },
     {
         title: "Call Me Little Sunshine",
         artist: "Ghost",
         dedication: "I chose this song because it's been the soundtrack to our love story.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/call-me-little-sunshine-Ghost.jpg"
+        youtubeUrl: "https://youtu.be/DD2m_iqD7dI?si=YpJBfWP82JCN9TQt",
+        coverImageJPG: "album_covers/call-me-little-sunshine-Ghost.jpg"
     },
     {
         title: "Figure You Out",
         artist: "Djo",
         dedication: "This will always remind me of us and all our beautiful memories together.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/figure-you-out-djo.jpg"
+        youtubeUrl: "https://youtu.be/JvXm1deRVT4?si=98FO7pesbX2y1gBS",
+        coverImageJPG: "album_covers/figure-you-out-djo.jpg"
     },
     {
         title: "Nothing Else Matters",
         artist: "Matallica",
         dedication: "For all the times we've laughed, cried, and grown together.",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/nothing-else-matters.jpg"
+        youtubeUrl: "https://youtu.be/ozXZnwYTMbs?si=jRQMiKuXfmFSKze1",
+        coverImageJPG: "album_covers/nothing-else-matters.jpg"
     },
     {
         title: "Alkaline",
         artist: "Sleep Token",
         dedication: "Forever our song. I love you more than words can say. ❤️",
-        youtubeUrl: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        coverImage: "album_covers/alkaline-sleeptoken.jpg"
+        youtubeUrl: "https://youtu.be/uU5vVT_Cp7c?si=JPNyg_OnPhyrGevh",
+        coverImageJPG: "album_covers/alkaline-sleeptoken.jpg"
     }
 ];
 
@@ -100,7 +100,7 @@ let isOpen = false;
 // DOM elements
 const albumWrapper = document.getElementById('albumWrapper');
 const albumCover = document.getElementById('albumCover');
-const coverImage = document.getElementById("album-cover-image");
+const coverImage = document.getElementById('album-cover-image');
 const coverSong = document.getElementById('coverSong');
 const coverArtist = document.getElementById('coverArtist');
 const labelSong = document.getElementById('labelSong');
@@ -120,7 +120,7 @@ function updateDisplay() {
     const song = songs[currentIndex];
     
     // Update cover
-    coverImage.src = song.coverImage;
+    coverImage.src = song.coverImageJPG;
     coverImage.alt = song.title;
     coverSong.textContent = song.title;
     coverArtist.textContent = song.artist;
