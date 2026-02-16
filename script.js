@@ -100,7 +100,7 @@ let isOpen = false;
 // DOM elements
 const albumWrapper = document.getElementById('albumWrapper');
 const albumCover = document.getElementById('albumCover');
-const coverImage = document.getElementById('coverImage');
+const coverImage = document.getElementById("album-cover-image");
 const coverSong = document.getElementById('coverSong');
 const coverArtist = document.getElementById('coverArtist');
 const labelSong = document.getElementById('labelSong');
