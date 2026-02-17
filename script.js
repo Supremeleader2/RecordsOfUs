@@ -3,7 +3,7 @@ const songs = [
     {
         title: "Golden Line",
         artist: "Djo",
-        dedication: "This song reminds me of when we first met. Every note brings me back to that magical moment.",
+        dedication: "Esta canción seguramente no es la primera vez que la escuchas, pero me gustaría dedicartela porque cuando la escuche, like really heard it, pensé en ti con tanta intensidad que lloré. To me this song screams us being so intense for each other, to better ourselves everyday for US? Me encanta. (I still cry when listening to it)",
         youtubeUrl: "https://youtu.be/VWbgR4LAPUU?si=agBOODqVg-_-QNyT",
         coverImageJPG: "album_covers/goldenline-djo.jpg"
     },
