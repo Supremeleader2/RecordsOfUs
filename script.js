@@ -126,8 +126,8 @@ function updateDisplay() {
     coverArtist.textContent = song.artist;
     
     // Update label
-    labelSong.textContent = song.title;
-    labelArtist.textContent = song.artist;
+    //labelSong.textContent = song.title;
+    //labelArtist.textContent = song.artist;
     
     // Update info panel
     infoTitle.textContent = song.title;
