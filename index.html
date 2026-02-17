@@ -11,6 +11,8 @@
         <h1 class="title">Our Soundtrack 💕</h1>
         <p class="subtitle">13 Songs for Us</p>
         
+        <div class="record-outer">
+        <button class="btn side-btn" id="prevBtn" disabled>←</button>
         <div class="record-container">
             <div class="album-wrapper" id="albumWrapper">
                 <div class="click-hint" id="clickHint">Click to open →</div>
@@ -42,11 +44,13 @@
                     ▶ Play on YouTube
                 </a>
             </div>
-        </div>
+        </div> <!-- end record-container -->
+        <button class="btn side-btn" id="nextBtn">→</button>
+        </div> <!-- end record-outer -->
 
-        <div class="controls">
-            <button class="btn" id="prevBtn" disabled>← Previous</button>
-            <button class="btn" id="nextBtn">Next →</button>
+        <div class="controls" style="display:none">
+            <button id="prevBtnHidden" disabled>← Previous</button>
+            <button id="nextBtnHidden">Next →</button>
         </div>
 
         <div class="counter" id="counter">1 / 13</div>

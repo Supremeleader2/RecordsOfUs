@@ -221,11 +221,57 @@ body {
 }
 
 .controls {
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    margin-top: 40px;
+    display: none;
 }
+
+.record-outer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 500px;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.side-btn {
+    flex-shrink: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 0;
+    font-size: 1.4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#prevBtn.side-btn {
+    left: 0;
+}
+
+#nextBtn.side-btn {
+    right: 0;
+}
+
+.side-btn {
+    flex-shrink: 0;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    padding: 0;
+    font-size: 1.4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease, opacity 0.3s ease;
+}
+
+
 
 .btn {
     background: rgba(255,255,255,0.2);
