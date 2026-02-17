@@ -17,14 +17,14 @@ const songs = [
     {
         title: "Life Ethernal",
         artist: "Ghost",
-        dedication: "The first Ghost song on here jijiji, simplemente wow, there’s a verse that I specifically wanted to highlight for this one cause it’s just so beautifully poetic, <strong> “Would you let me touch your soul, forever?”</strong>, yeah,I wanted to ask that. But the whole thing just feels so magical.",
+        dedication: "The first Ghost song on here jijiji, simplemente wow, there’s a verse that I specifically wanted to highlight for this one cause it’s just so beautifully poetic, “Would you let me touch your soul, forever?”, yeah,I wanted to ask that. But the whole thing just feels so magical.",
         youtubeUrl: "https://youtu.be/xUSf1bjd4I8?si=RQy0AbmWJj0W-MDP",
         coverImageJPG: "album_covers/life-eternal-ghost.jpg"
     },
     {
         title: "Emergence",
         artist: "Sleep Token",
-        dedication: "Well, you obviously know this one pero I felt like I had to officially include it as one of our songs. The lyrics of <strong> “Go ahead and wrap your arms around me”</strong>, it’s so fucking romantic, feels like such a love call, a call from me to you.",
+        dedication: "Well, you obviously know this one pero I felt like I had to officially include it as one of our songs. The lyrics of “Go ahead and wrap your arms around me”, it’s so fucking romantic, feels like such a love call, a call from me to you.",
         youtubeUrl: "https://youtu.be/JJpFTUP6fIo?si=ZS72yci19LkbcTds",
         coverImageJPG: "album_covers/emergence-sleeptoken.jpg"
     },
@@ -38,7 +38,7 @@ const songs = [
     {
         title: "Drag Me Under",
         artist: "Sleep Token",
-        dedication: "Another Sleep Token song, cause I feel like their sound is so ethereal, I posted us to this song and want to hightlight the first line, the one that really caught me,  <strong> “And I know the angels tonight are as lost for words”</strong> porque la idea de que seres divinos or even the universe itself, nos ven a NOSOTROS?!!?!?! WOW.",
+        dedication: "Another Sleep Token song, cause I feel like their sound is so ethereal, I posted us to this song and want to hightlight the first line, the one that really caught me, “And I know the angels tonight are as lost for words” porque la idea de que seres divinos or even the universe itself, nos ven a NOSOTROS?!!?!?! WOW.",
         youtubeUrl: "https://youtu.be/c6Cqvgjql_Q?si=slK0tUczn5c8Byya",
         coverImageJPG: "album_covers/drag-me-under-sleeptoken.jpg"
     },
@@ -59,7 +59,7 @@ const songs = [
     {
         title: "Eternos",
         artist: "Marte",
-        dedication: "La primera canción con la que nos publique, con la que compartí con el mundo uno de mis días más felices. Esta es una declaración porque creo que nuestro amor puede ser eterno si nos lo permitirnos. Simplemente quiero que seamos <strong> ETERNOS </strong>.",
+        dedication: "La primera canción con la que nos publique, con la que compartí con el mundo uno de mis días más felices. Esta es una declaración porque creo que nuestro amor puede ser eterno si nos lo permitirnos. Simplemente quiero que seamos ETERNOS.",
         youtubeUrl: "https://youtu.be/nRB5JKOZTkw?si=ZY-417_2Ii4CnRuU",
         coverImageJPG: "album_covers/eternos-marte.jpg"
     },
