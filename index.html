@@ -3,19 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Songs 💕</title>
+    <title>Our Songs ðŸ’•</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body> 
     <div class="container">
-        <h1 class="title">Our Soundtrack 💕</h1>
+        <h1 class="title">Our Soundtrack ðŸ’•</h1>
         <p class="subtitle">13 Songs for Us</p>
         
-        <div class="record-outer">
-        <button class="btn side-btn" id="prevBtn" disabled>←</button>
         <div class="record-container">
             <div class="album-wrapper" id="albumWrapper">
-                <div class="click-hint" id="clickHint">Click to open →</div>
+                <div class="click-hint" id="clickHint">Click to open â†’</div>
                 <div class="album-cover" id="albumCover">
                     <img id="album-cover-image" class="cover-image" src="" alt="Album cover">
                     <div class="cover-title">
@@ -41,20 +39,18 @@
                 <div class="info-artist" id="infoArtist">Artist Name</div>
                 <div class="dedication-text" id="dedication">Dedication message...</div>
                 <a href="#" target="_blank" class="play-button" id="playButton">
-                    ▶ Play on YouTube
+                    â–¶ Play on YouTube
                 </a>
             </div>
-        </div> <!-- end record-container -->
-        <button class="btn side-btn" id="nextBtn">→</button>
-        </div> <!-- end record-outer -->
+        </div>
 
-        <div class="controls" style="display:none">
-            <button id="prevBtnHidden" disabled>← Previous</button>
-            <button id="nextBtnHidden">Next →</button>
+        <div class="controls">
+            <button class="btn" id="prevBtn" disabled>â† Previous</button>
+            <button class="btn" id="nextBtn">Next â†’</button>
         </div>
 
         <div class="counter" id="counter">1 / 13</div>
-        <div class="instruction">Click the album cover to slide out the vinyl and see the dedication 🎵</div>
+        <div class="instruction">Click the album cover to slide out the vinyl and see the dedication ðŸŽµ</div>
     </div>
 
     <script src="script.js"></script>
